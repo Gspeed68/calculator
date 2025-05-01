@@ -1,0 +1,24 @@
+[package]
+name = "calculator"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "calculator"
+path = "src/main.rs"
+
+[lib]
+name = "calculator"
+path = "src/lib.rs"
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+yew = { version = "0.20", features = ["csr"] }
+web-sys = { version = "0.3", features = [
+    "console",
+    "Document",
+    "HtmlInputElement",
+    "HtmlSelectElement",
+    "Window",
+] }
+wasm-bindgen = "0.2"

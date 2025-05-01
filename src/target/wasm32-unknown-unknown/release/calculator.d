@@ -1,0 +1,1 @@
+/Users/gregsolt/Library/Mobile\ Documents/com~apple~CloudDocs/Rust/calculator/src/target/wasm32-unknown-unknown/release/calculator.wasm: /Users/gregsolt/Library/Mobile\ Documents/com~apple~CloudDocs/Rust/calculator/src/src/lib.rs

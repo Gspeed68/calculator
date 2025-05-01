@@ -1,0 +1,10 @@
+/Users/gregsolt/Library/Mobile Documents/com~apple~CloudDocs/Rust/calculator/src/target/debug/deps/libgloo_console-6a7a950c617226f2.rmeta: /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/lib.rs /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/console_dbg.rs /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/counter.rs /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/externs.rs /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/macros.rs /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/timer.rs
+
+/Users/gregsolt/Library/Mobile Documents/com~apple~CloudDocs/Rust/calculator/src/target/debug/deps/gloo_console-6a7a950c617226f2.d: /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/lib.rs /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/console_dbg.rs /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/counter.rs /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/externs.rs /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/macros.rs /Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/timer.rs
+
+/Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/lib.rs:
+/Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/console_dbg.rs:
+/Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/counter.rs:
+/Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/externs.rs:
+/Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/macros.rs:
+/Users/gregsolt/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-console-0.2.3/src/timer.rs:
